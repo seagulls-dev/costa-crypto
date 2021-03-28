@@ -1,0 +1,18 @@
+[
+  {
+    "id": "admin.logout_successful",
+    "defaultMessage": "Logout Successful."
+  },
+  {
+    "id": "admin.user_area",
+    "defaultMessage": "User Area"
+  },
+  {
+    "id": "common.logout",
+    "defaultMessage": "Logout"
+  },
+  {
+    "id": "common.user_greeting",
+    "defaultMessage": "Hi, {name}"
+  }
+]

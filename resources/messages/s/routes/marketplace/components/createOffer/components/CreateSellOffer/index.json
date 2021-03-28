@@ -1,0 +1,58 @@
+[
+  {
+    "id": "create_offer.offer_created",
+    "defaultMessage": "Offer created successfully!."
+  },
+  {
+    "id": "create_offer.offer_updated",
+    "defaultMessage": "Offer updated successfully!."
+  },
+  {
+    "id": "marketplace.edit_sell_offer",
+    "defaultMessage": "Edit Sell Offer"
+  },
+  {
+    "id": "marketplace.create_sell_offer",
+    "defaultMessage": "Create Sell Offer"
+  },
+  {
+    "id": "create_offer.sell_payment_setup",
+    "defaultMessage": "Payment Setup"
+  },
+  {
+    "id": "create_offer.sell_payment_setup_desc",
+    "defaultMessage": "Choose currency."
+  },
+  {
+    "id": "create_offer.sell_profit_margin",
+    "defaultMessage": "Profit Margin"
+  },
+  {
+    "id": "create_offer.sell_profit_margin_desc",
+    "defaultMessage": "Set trade limits."
+  },
+  {
+    "id": "create_offer.sell_terms_of_trade",
+    "defaultMessage": "Terms of Trade"
+  },
+  {
+    "id": "create_offer.sell_terms_of_trade_desc",
+    "defaultMessage": "State your terms."
+  },
+  {
+    "id": "common.sell_previous",
+    "defaultMessage": "Previous"
+  },
+  {
+    "id": "common.sell_next",
+    "defaultMessage": "Next"
+  },
+  {
+    "id": "common.sell_edit_offer",
+    "defaultMessage": "Edit Offer"
+  },
+  {
+    "id": "common.sell_create_offer",
+    "defaultMessage": "Create Offer"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "chats.marketplace_approved_successful",
+    "defaultMessage": "Trade has been approved."
+  },
+  {
+    "id": "chats.marketplace_disputed_successful",
+    "defaultMessage": "A moderator will be in touch soon."
+  },
+  {
+    "id": "chats.marketplace_cancelled_successful",
+    "defaultMessage": "Trade has been cancelled."
+  },
+  {
+    "id": "chats.marketplace_confirmed_successful",
+    "defaultMessage": "Trade has been marked as paid."
+  },
+  {
+    "id": "chats.trade_status",
+    "defaultMessage": "Trade Status"
+  },
+  {
+    "id": "common.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "common.rate",
+    "defaultMessage": "Rate"
+  },
+  {
+    "id": "common.coin",
+    "defaultMessage": "Coin"
+  },
+  {
+    "id": "common.fee",
+    "defaultMessage": "Fee"
+  },
+  {
+    "id": "common.payment_deadline",
+    "defaultMessage": "Payment Deadline"
+  },
+  {
+    "id": "trade.release_coin",
+    "defaultMessage": "Release Coin"
+  },
+  {
+    "id": "trade.mark_trade_as_paid_confirmation",
+    "defaultMessage": "Are you sure you want to {action}?"
+  },
+  {
+    "id": "trade.mark_trade_as_paid",
+    "defaultMessage": "Mark Trade as Paid"
+  },
+  {
+    "id": "offer.cancel_trade_confirmation",
+    "defaultMessage": "Are you sure you want to {action}?"
+  },
+  {
+    "id": "trade.cancel_trade",
+    "defaultMessage": "Cancel Trade"
+  },
+  {
+    "id": "offer.raise_dispute_confirmation",
+    "defaultMessage": "Are you sure you want to {action}?"
+  },
+  {
+    "id": "trade.raise_dispute",
+    "defaultMessage": "Raise Dispute"
+  },
+  {
+    "id": "common.terms",
+    "defaultMessage": "Terms"
+  },
+  {
+    "id": "common.and",
+    "defaultMessage": "and"
+  },
+  {
+    "id": "common.instruction",
+    "defaultMessage": "Instructions"
+  },
+  {
+    "id": "chats.trade_payment_instruction",
+    "defaultMessage": "{buyer} to pay {offerAmount} to {seller}"
+  },
+  {
+    "id": "common.payment_method_description",
+    "defaultMessage": "Description"
+  }
+]

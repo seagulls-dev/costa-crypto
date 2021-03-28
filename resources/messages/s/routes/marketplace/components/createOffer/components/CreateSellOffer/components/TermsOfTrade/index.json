@@ -1,0 +1,90 @@
+[
+  {
+    "id": "create_offer.input_label_placeholder",
+    "defaultMessage": "Maximum of 25 characters..."
+  },
+  {
+    "id": "create_offer.sell_select_country_placeholder",
+    "defaultMessage": "Choose country of offer..."
+  },
+  {
+    "id": "create_offer.select_tags_placeholder",
+    "defaultMessage": "Select up to 3 tags..."
+  },
+  {
+    "id": "create_offer.sell_input_terms_label",
+    "defaultMessage": "Terms"
+  },
+  {
+    "id": "create_offer.sell_input_terms_extra",
+    "defaultMessage": "This will be shown to buyer before starting a trade"
+  },
+  {
+    "id": "create_offer.sell_input_instruction_label",
+    "defaultMessage": "Instruction"
+  },
+  {
+    "id": "create_offer.sell_input_instruction_extra",
+    "defaultMessage": "This will be shown to buyer after starting a trade"
+  },
+  {
+    "id": "create_offer.sell_input_label_label",
+    "defaultMessage": "Label"
+  },
+  {
+    "id": "create_offer.sell_input_label_extra",
+    "defaultMessage": "This will appear after your payment method"
+  },
+  {
+    "id": "create_offer.sell_select_tags_label",
+    "defaultMessage": "Tags"
+  },
+  {
+    "id": "create_offer.sell_select_tags_extra",
+    "defaultMessage": "This is used to improve search presence of your offer."
+  },
+  {
+    "id": "create_offer.sell_select_country_label",
+    "defaultMessage": "Country"
+  },
+  {
+    "id": "create_offer.sell_privacy",
+    "defaultMessage": "Privacy"
+  },
+  {
+    "id": "create_offer.sell_filter_none",
+    "defaultMessage": "None"
+  },
+  {
+    "id": "create_offer.sell_filter_all_contacts",
+    "defaultMessage": "Show your contacts only"
+  },
+  {
+    "id": "create_offer.sell_filter_trusted_contacts",
+    "defaultMessage": "Show your trusted contacts only"
+  },
+  {
+    "id": "create_offer.sell_requirements",
+    "defaultMessage": "Requirements"
+  },
+  {
+    "id": "create_offer.sell_require_phone_verification",
+    "defaultMessage": "Require Phone Verification"
+  },
+  {
+    "id": "create_offer.sell_require_email_verification",
+    "defaultMessage": "Require Email Verification"
+  },
+  {
+    "id": "create_offer.sell_about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "create_offer.sell_terms_of_trade_information",
+    "defaultMessage": "When a customer clicks into your offer, your terms and instructions will tell them what to provide during the trade."
+  },
+  {
+    "id": "create_offer.sell_filter_requirements_information",
+    "defaultMessage": "You also have the option of moderating who is able to see and who is able to start trade with your offer."
+  }
+]

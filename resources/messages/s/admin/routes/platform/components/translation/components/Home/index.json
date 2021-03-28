@@ -1,0 +1,58 @@
+[
+  {
+    "id": "admin.translation.import_action_successful",
+    "defaultMessage": "Translation imported successfully."
+  },
+  {
+    "id": "admin.translation.export_action_successful",
+    "defaultMessage": "Translation exported successfully."
+  },
+  {
+    "id": "admin.translation.action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "admin.translation.locale_name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.translation.locale_native",
+    "defaultMessage": "Native"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "admin.translation",
+    "defaultMessage": "Translation"
+  },
+  {
+    "id": "admin.translation.export_info",
+    "defaultMessage": "Publishing all changes made to translation keys may take a while to complete. Please consider using SSH command: {command}. Make sure the web server is granted write permission on the folder {folder} i.e 775."
+  },
+  {
+    "id": "admin.translation.replace_existing_translation",
+    "defaultMessage": "Replace existing translation."
+  },
+  {
+    "id": "admin.translation.append_new_translation",
+    "defaultMessage": "Append new translation."
+  },
+  {
+    "id": "admin.translation.import",
+    "defaultMessage": "Import"
+  },
+  {
+    "id": "admin.translation.edit",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "admin.translation.locale_setup",
+    "defaultMessage": "Locale Setup"
+  },
+  {
+    "id": "admin.translation.locale_info",
+    "defaultMessage": "You may add as many language you want your platform to support. Look up the ISO-2 code for the locale and submit it with the form below. All newly added locales, needs to be translated and published before it can be available to the public."
+  }
+]

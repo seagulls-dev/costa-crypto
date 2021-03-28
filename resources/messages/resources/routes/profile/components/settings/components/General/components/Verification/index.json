@@ -1,0 +1,58 @@
+[
+  {
+    "id": "profile.invalid_phone",
+    "defaultMessage": "You phone is invalid!"
+  },
+  {
+    "id": "profile.verification_email_code_placeholder",
+    "defaultMessage": "Enter the code sent to your email..."
+  },
+  {
+    "id": "profile.verification_phone_code_placeholder",
+    "defaultMessage": "Enter the code sent to your phone..."
+  },
+  {
+    "id": "profile.token_required",
+    "defaultMessage": "Token is required to complete verification!"
+  },
+  {
+    "id": "profile.verification_action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "profile.basic_verification",
+    "defaultMessage": "Basic Verification"
+  },
+  {
+    "id": "profile.phone",
+    "defaultMessage": "Phone"
+  },
+  {
+    "id": "common.unverified",
+    "defaultMessage": "Unverified"
+  },
+  {
+    "id": "profile.resend_code",
+    "defaultMessage": "Resend Code"
+  },
+  {
+    "id": "common.verified",
+    "defaultMessage": "Verified"
+  },
+  {
+    "id": "common.verify",
+    "defaultMessage": "Verify"
+  },
+  {
+    "id": "profile.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "common.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

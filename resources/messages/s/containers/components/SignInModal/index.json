@@ -1,0 +1,42 @@
+[
+  {
+    "id": "auth.username",
+    "defaultMessage": "Username"
+  },
+  {
+    "id": "auth.login_successful",
+    "defaultMessage": "Login Successful."
+  },
+  {
+    "id": "auth.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "auth.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "auth.two_factor_token",
+    "defaultMessage": "Two Factor Token"
+  },
+  {
+    "id": "auth.sign_in",
+    "defaultMessage": "Sign In"
+  },
+  {
+    "id": "auth.two_factor_verification",
+    "defaultMessage": "Two Factor Verification"
+  },
+  {
+    "id": "auth.remember_me",
+    "defaultMessage": "Remember me"
+  },
+  {
+    "id": "auth.forgot_password",
+    "defaultMessage": "Forgot Password"
+  },
+  {
+    "id": "auth.login",
+    "defaultMessage": "Login"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "wallet.transaction_sent",
+    "defaultMessage": "Transaction was sent successfully!"
+  },
+  {
+    "id": "common.confirm",
+    "defaultMessage": "Confirm"
+  },
+  {
+    "id": "wallet.withdraw_modal_title",
+    "defaultMessage": "Withdraw {coin}"
+  },
+  {
+    "id": "wallet.withdrawal_info",
+    "defaultMessage": "Please make sure you check the withdraw address information carefully before the withdraw operation. You can use email address for internal transfer to avoid transaction fee."
+  },
+  {
+    "id": "common.address_or_email",
+    "defaultMessage": "Address"
+  },
+  {
+    "id": "common.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "wallet.fee",
+    "defaultMessage": "Fee"
+  },
+  {
+    "id": "common.total",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "common.available",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "wallet.verify_identity",
+    "defaultMessage": "Verify Identity"
+  },
+  {
+    "id": "common.token",
+    "defaultMessage": "Token"
+  },
+  {
+    "id": "wallet.validate_identity",
+    "defaultMessage": "You should setup two factor authentication to add an extra layer of security."
+  },
+  {
+    "id": "common.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "wallet.account_not_found",
+    "defaultMessage": "Account not found."
+  }
+]

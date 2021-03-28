@@ -1,0 +1,26 @@
+[
+  {
+    "id": "meta.title.home",
+    "defaultMessage": "Home | {name}"
+  },
+  {
+    "id": "common.layout_saved",
+    "defaultMessage": "Layout was saved."
+  },
+  {
+    "id": "common.manage_widgets",
+    "defaultMessage": "Manage Widgets"
+  },
+  {
+    "id": "common.widgets_customization_info",
+    "defaultMessage": "Layouts can be set for different screen sizes. You may use your browser's developer menu to emulate different screen sizes, in order to set different layouts."
+  },
+  {
+    "id": "common.edit",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "common.save",
+    "defaultMessage": "Save"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin.configuration.updated_notification_successfully",
+    "defaultMessage": "Notification updated successfully."
+  },
+  {
+    "id": "admin.configuration.notification",
+    "defaultMessage": "Notification"
+  },
+  {
+    "id": "admin.configuration.enable_channel_info",
+    "defaultMessage": "We will attempt to send a test notification before we enable a channel. Do make sure that the related environment variable has been setup and your profile has the needed route to send the test notification to."
+  },
+  {
+    "id": "admin.configuration.enable_email",
+    "defaultMessage": "Enable Email"
+  },
+  {
+    "id": "admin.configuration.enable_database",
+    "defaultMessage": "Enable Database"
+  },
+  {
+    "id": "admin.configuration.enable_sms",
+    "defaultMessage": "Enable SMS"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

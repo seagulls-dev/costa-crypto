@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin.wallets.add_wallet_successful",
+    "defaultMessage": "Wallet was added successfully."
+  },
+  {
+    "id": "admin.wallets.add_wallet",
+    "defaultMessage": "Add Wallet"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.wallets.adapters",
+    "defaultMessage": "Adapters"
+  },
+  {
+    "id": "common.attributes",
+    "defaultMessage": "Attributes"
+  },
+  {
+    "id": "admin.wallets.wallet_attributes_warning",
+    "defaultMessage": "You may not be able to edit these attributes after adding this wallet. Tread carefully!"
+  },
+  {
+    "id": "admin.wallets.min_confirmations",
+    "defaultMessage": "Min Confirmations"
+  }
+]

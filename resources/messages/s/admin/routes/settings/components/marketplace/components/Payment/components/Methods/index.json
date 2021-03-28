@@ -1,0 +1,26 @@
+[
+  {
+    "id": "admin.marketplace.action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "admin.marketplace.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.marketplace.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "admin.marketplace.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "admin.marketplace.payment_methods",
+    "defaultMessage": "Payment Methods"
+  }
+]

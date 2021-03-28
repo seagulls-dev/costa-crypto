@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin.roles.create_role_successful",
+    "defaultMessage": "A new role has been created successfully."
+  },
+  {
+    "id": "admin.role.create_role",
+    "defaultMessage": "Create Role"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.role.level_info",
+    "defaultMessage": "The level assigned to a role is used to prioritize user actions."
+  },
+  {
+    "id": "admin.role.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.role.level",
+    "defaultMessage": "Level"
+  },
+  {
+    "id": "common.permissions",
+    "defaultMessage": "Permissions"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "create_offer.buy_select_payment_method_placeholder",
+    "defaultMessage": "Select payment method..."
+  },
+  {
+    "id": "create_offer.buy_select_currency_placeholder",
+    "defaultMessage": "Select currency..."
+  },
+  {
+    "id": "create_offer.buy_select_wallet_account_placeholder",
+    "defaultMessage": "Select wallet account..."
+  },
+  {
+    "id": "create_offer.buy_select_wallet_account_label",
+    "defaultMessage": "Monedero"
+  },
+  {
+    "id": "create_offer.buy_select_wallet_account_extra",
+    "defaultMessage": "Seleccione una billetera para recibir los fondos!"
+  },
+  {
+    "id": "create_offer.buy_select_payment_method_label",
+    "defaultMessage": "Fulfill payment with"
+  },
+  {
+    "id": "create_offer.buy_select_currency_label",
+    "defaultMessage": "Specify currency to trade with"
+  },
+  {
+    "id": "create_offer.buy_select_currency_extra",
+    "defaultMessage": "Your offer will be posted for the selected currency."
+  },
+  {
+    "id": "create_offer.buy_about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "create_offer.buy_payment_method_information",
+    "defaultMessage": "Brindamos soporte para varios métodos de pago. Siempre puede sugerir uno nuevo para que nuestro equipo lo considere."
+  },
+  {
+    "id": "create_offer.buy_country_information",
+    "defaultMessage": "Esta oferta se incluirá en su país.: {country}. Esto se usa para mejorar el algoritmo de búsqueda, sus ofertas seguirán siendo visibles para todos."
+  }
+]

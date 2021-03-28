@@ -1,0 +1,58 @@
+[
+  {
+    "id": "filter_result.select_country_placeholder",
+    "defaultMessage": "Select country..."
+  },
+  {
+    "id": "filter_result.select_coin_placeholder",
+    "defaultMessage": "Select coin..."
+  },
+  {
+    "id": "filter_result.select_currency_placeholder",
+    "defaultMessage": "Select currency..."
+  },
+  {
+    "id": "filter_result.select_payment_method_placeholder",
+    "defaultMessage": "Select payment method..."
+  },
+  {
+    "id": "filter_result.select_tags_placeholder",
+    "defaultMessage": "Filter by tags..."
+  },
+  {
+    "id": "filter_result.input_amount_placeholder",
+    "defaultMessage": "Filter by amount..."
+  },
+  {
+    "id": "marketplace.filter_by_coin",
+    "defaultMessage": "By Coin"
+  },
+  {
+    "id": "marketplace.filter_by_currency",
+    "defaultMessage": "By Currency"
+  },
+  {
+    "id": "marketplace.filter_by_country",
+    "defaultMessage": "By Country"
+  },
+  {
+    "id": "marketplace.filter_by_payment_method",
+    "defaultMessage": "By Payment Method"
+  },
+  {
+    "id": "marketplace.filter_by_tags",
+    "defaultMessage": "By Tags"
+  },
+  {
+    "id": "marketplace.filter_amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "filter_result.apply_filter",
+    "defaultMessage": "Apply Filter"
+  },
+  {
+    "id": "filter_result.clear_filter",
+    "defaultMessage": "Clear Filter"
+  }
+]

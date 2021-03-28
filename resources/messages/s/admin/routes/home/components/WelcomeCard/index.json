@@ -1,0 +1,26 @@
+[
+  {
+    "id": "admin.profile",
+    "defaultMessage": "Profile"
+  },
+  {
+    "id": "admin.settings",
+    "defaultMessage": "Settings"
+  },
+  {
+    "id": "admin.widget.welcome_card.greetings",
+    "defaultMessage": "Welcome, {name}"
+  },
+  {
+    "id": "admin.widget.welcome_card.last_login",
+    "defaultMessage": "Login: {date}"
+  },
+  {
+    "id": "admin.widget.welcome_card.currency",
+    "defaultMessage": "Currency: {currency}"
+  },
+  {
+    "id": "admin.widget.welcome_card.currency_info",
+    "defaultMessage": "Financial statistics will be shown to you in your base currency. You can update this in your settings."
+  }
+]

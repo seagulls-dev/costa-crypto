@@ -1,0 +1,30 @@
+[
+  {
+    "id": "widget.user_registrations_chart.date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "widget.user_registrations_chart.month",
+    "defaultMessage": "Month"
+  },
+  {
+    "id": "widget.user_registrations_chart.total",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "admin.widget.user_registrations_chart",
+    "defaultMessage": "User Registrations"
+  },
+  {
+    "id": "widget.user_registrations_chart.this_month",
+    "defaultMessage": "This Month"
+  },
+  {
+    "id": "widget.user_registrations_chart.this_year",
+    "defaultMessage": "This Year"
+  },
+  {
+    "id": "widget.user_registrations_chart.no_data",
+    "defaultMessage": "No Data Yet."
+  }
+]

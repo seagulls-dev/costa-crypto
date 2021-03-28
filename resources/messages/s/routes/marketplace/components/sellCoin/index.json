@@ -1,0 +1,50 @@
+[
+  {
+    "id": "meta.title.marketplace_sell_coin",
+    "defaultMessage": "Sell Coin - Marketplace | {name}"
+  },
+  {
+    "id": "common.buyer",
+    "defaultMessage": "Buyer"
+  },
+  {
+    "id": "common.coin",
+    "defaultMessage": "Coin"
+  },
+  {
+    "id": "common.payment",
+    "defaultMessage": "Payment"
+  },
+  {
+    "id": "common.currency",
+    "defaultMessage": "Currency"
+  },
+  {
+    "id": "common.range",
+    "defaultMessage": "Range"
+  },
+  {
+    "id": "common.to",
+    "defaultMessage": "To"
+  },
+  {
+    "id": "common.rate",
+    "defaultMessage": "Rate"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "common.sell",
+    "defaultMessage": "Sell"
+  },
+  {
+    "id": "common.filter_result",
+    "defaultMessage": "Filter Result"
+  },
+  {
+    "id": "marketplace.available_offers",
+    "defaultMessage": "Available Offers"
+  }
+]

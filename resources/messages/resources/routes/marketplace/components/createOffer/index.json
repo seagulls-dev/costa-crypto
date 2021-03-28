@@ -1,0 +1,14 @@
+[
+  {
+    "id": "meta.title.marketplace_create_offer",
+    "defaultMessage": "Create Offer - Marketplace | {name}"
+  },
+  {
+    "id": "marketplace.sell_offer",
+    "defaultMessage": "Sell Offer"
+  },
+  {
+    "id": "marketplace.buy_offer",
+    "defaultMessage": "Buy Offer"
+  }
+]

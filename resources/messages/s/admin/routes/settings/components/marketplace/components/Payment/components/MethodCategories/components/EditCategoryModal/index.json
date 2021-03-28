@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin.marketplace.update_payment_method_category_successful",
+    "defaultMessage": "Payment method category was updated successfully."
+  },
+  {
+    "id": "admin.marketplace.edit_payment_method_category",
+    "defaultMessage": "Edit Payment Method Category"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.marketplace.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.marketplace.description",
+    "defaultMessage": "Description"
+  }
+]

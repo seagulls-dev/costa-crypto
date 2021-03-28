@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin.marketplace.create_payment_method_category_successful",
+    "defaultMessage": "A new payment method category was created successfully."
+  },
+  {
+    "id": "admin.marketplace.create_payment_method_category",
+    "defaultMessage": "Create Payment Method Category"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.marketplace.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.marketplace.description",
+    "defaultMessage": "Description"
+  }
+]

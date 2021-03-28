@@ -1,0 +1,38 @@
+[
+  {
+    "id": "admin.translation.translation_exported",
+    "defaultMessage": "Translation exported into file."
+  },
+  {
+    "id": "admin.translation.key",
+    "defaultMessage": "Key"
+  },
+  {
+    "id": "admin.translation.default_message",
+    "defaultMessage": "Default Message"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "admin.translation.edit_group_keys",
+    "defaultMessage": "Edit {group} Keys"
+  },
+  {
+    "id": "admin.translation.total_details",
+    "defaultMessage": "{total} Total"
+  },
+  {
+    "id": "admin.translation.total_changed_details",
+    "defaultMessage": "{total} Changed"
+  },
+  {
+    "id": "admin.translation.edit_keys_warning",
+    "defaultMessage": "Heads up! Do not change the words that are of the form {first} or {second}. They are called parameters and they are meant to be replaced with a value. e.g :name will be replaced with the actual name of the user."
+  },
+  {
+    "id": "common.publish",
+    "defaultMessage": "Publish"
+  }
+]

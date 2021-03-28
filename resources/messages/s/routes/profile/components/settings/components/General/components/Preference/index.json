@@ -1,0 +1,34 @@
+[
+  {
+    "id": "profile.preference_action_successful",
+    "defaultMessage": "Your preference was updated successfully!"
+  },
+  {
+    "id": "profile.select_currency_placeholder",
+    "defaultMessage": "Enter your currency..."
+  },
+  {
+    "id": "profile.preference",
+    "defaultMessage": "Preference"
+  },
+  {
+    "id": "profile.notifications",
+    "defaultMessage": "Notifications"
+  },
+  {
+    "id": "common.type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "common.update",
+    "defaultMessage": "Update"
+  },
+  {
+    "id": "common.others",
+    "defaultMessage": "Others"
+  },
+  {
+    "id": "profile.currency",
+    "defaultMessage": "Currency"
+  }
+]

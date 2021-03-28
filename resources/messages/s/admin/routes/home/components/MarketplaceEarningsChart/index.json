@@ -1,0 +1,30 @@
+[
+  {
+    "id": "widget.marketplace_earnings_chart.month",
+    "defaultMessage": "Month"
+  },
+  {
+    "id": "widget.marketplace_earnings_chart.date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "widget.marketplace_earnings_chart.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "admin.widget.marketplace_earnings_chart",
+    "defaultMessage": "Marketplace Earnings"
+  },
+  {
+    "id": "widget.marketplace_earnings_chart.this_month",
+    "defaultMessage": "This Month"
+  },
+  {
+    "id": "widget.marketplace_earnings_chart.this_year",
+    "defaultMessage": "This Year"
+  },
+  {
+    "id": "widget.marketplace_earnings_chart.no_data",
+    "defaultMessage": "No Data Yet."
+  }
+]

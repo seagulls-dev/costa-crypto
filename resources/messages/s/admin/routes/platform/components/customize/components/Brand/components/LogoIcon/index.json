@@ -1,0 +1,38 @@
+[
+  {
+    "id": "admin.brand.upload_successful",
+    "defaultMessage": "Your upload was successful."
+  },
+  {
+    "id": "admin.brand.invalid_file_type",
+    "defaultMessage": "Invalid file type selected."
+  },
+  {
+    "id": "admin.brand.logo_icon",
+    "defaultMessage": "Logo Icon"
+  },
+  {
+    "id": "common.logo_icon",
+    "defaultMessage": "Logo Icon"
+  },
+  {
+    "id": "admin.upload_logo_icon",
+    "defaultMessage": "Upload Logo Icon"
+  },
+  {
+    "id": "common.example",
+    "defaultMessage": "Example"
+  },
+  {
+    "id": "common.current",
+    "defaultMessage": "Current"
+  },
+  {
+    "id": "common.requirement",
+    "defaultMessage": "Requirement"
+  },
+  {
+    "id": "admin.brand.logo_icon_requirement",
+    "defaultMessage": "Max Width: {maxWidth}, Max Height: {maxHeight}, File Type: {type}"
+  }
+]

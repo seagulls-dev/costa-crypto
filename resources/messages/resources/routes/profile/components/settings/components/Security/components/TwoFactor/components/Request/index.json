@@ -1,0 +1,34 @@
+[
+  {
+    "id": "profile.input_two_factor_code_placeholder",
+    "defaultMessage": "Enter two factor code..."
+  },
+  {
+    "id": "profile.input_password_placeholder",
+    "defaultMessage": "Enter your password..."
+  },
+  {
+    "id": "profile.two_factor_request_action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "profile.request_for_secret_with_password_info",
+    "defaultMessage": "To setup your Two Factor with {google} or {authy}, you will need your unique two factor secret. Please verify your identity using your password."
+  },
+  {
+    "id": "profile.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "profile.request_for_secret_with_token_info",
+    "defaultMessage": "You need to verify your identity using your previous Two Factor setup before you can proceed."
+  },
+  {
+    "id": "profile.token",
+    "defaultMessage": "Token"
+  },
+  {
+    "id": "profile.request_for_secret",
+    "defaultMessage": "Request For Secret"
+  }
+]

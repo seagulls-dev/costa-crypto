@@ -1,0 +1,50 @@
+[
+  {
+    "id": "installer.username",
+    "defaultMessage": "Username"
+  },
+  {
+    "id": "installer.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "installer.registered_successful",
+    "defaultMessage": "Registered Successfully!"
+  },
+  {
+    "id": "installer.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "installer.verify_password",
+    "defaultMessage": "Verify Password"
+  },
+  {
+    "id": "installer.invalid_username",
+    "defaultMessage": "Invalid username format."
+  },
+  {
+    "id": "installer.administrator",
+    "defaultMessage": "Administrator"
+  },
+  {
+    "id": "installer.previous",
+    "defaultMessage": "Previous"
+  },
+  {
+    "id": "installer.register",
+    "defaultMessage": "Register"
+  },
+  {
+    "id": "installer.about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "installer.administrator_information",
+    "defaultMessage": "Database migration and seeds will be executed at this stage, however this may fail if any of your database environment values in the previous step is incorrect."
+  },
+  {
+    "id": "installer.documentation",
+    "defaultMessage": "Documentation"
+  }
+]

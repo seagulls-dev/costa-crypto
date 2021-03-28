@@ -1,0 +1,98 @@
+[
+  {
+    "id": "offer.start_trade_action_successful",
+    "defaultMessage": "Trade started successfully!"
+  },
+  {
+    "id": "meta.title.marketplace_offer",
+    "defaultMessage": "{title} | {name}"
+  },
+  {
+    "id": "offer.how_much_buy",
+    "defaultMessage": "How much do you want to buy?"
+  },
+  {
+    "id": "offer.how_much_sell",
+    "defaultMessage": "How much do you want to sell?"
+  },
+  {
+    "id": "offer.enter_amount",
+    "defaultMessage": "Enter Amount"
+  },
+  {
+    "id": "offer.unavailable_info",
+    "defaultMessage": "This offer is {unavailable}. This can be because the owner has disable the offer, cannot currently interact with the platform, or they do not have enough balance to fulfill the offer."
+  },
+  {
+    "id": "common.unavailable",
+    "defaultMessage": "Unavailable"
+  },
+  {
+    "id": "offer.unable_to_start_trade",
+    "defaultMessage": "Unable to Start Trade"
+  },
+  {
+    "id": "offer.authentication_required_desc",
+    "defaultMessage": "You need to {register} or {login} to continue with the trade."
+  },
+  {
+    "id": "common.register",
+    "defaultMessage": "Register"
+  },
+  {
+    "id": "common.login",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "offer.cannot_start_trade_with_self_desc",
+    "defaultMessage": "You cannot start a trade with yourself!"
+  },
+  {
+    "id": "offer.phone_verification_required_desc",
+    "defaultMessage": "{phone} verification is required by the owner"
+  },
+  {
+    "id": "common.phone",
+    "defaultMessage": "Phone"
+  },
+  {
+    "id": "offer.email_verification_required_desc",
+    "defaultMessage": "{email} verification is required by the owner"
+  },
+  {
+    "id": "common.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "offer.buy_now",
+    "defaultMessage": "Buy Now!"
+  },
+  {
+    "id": "offer.sell_now",
+    "defaultMessage": "Sell Now!"
+  },
+  {
+    "id": "offer.offer_information",
+    "defaultMessage": "Offer Information"
+  },
+  {
+    "id": "offer.amount_range_information",
+    "defaultMessage": "Your amount should be between {minimum} and {maximum}!"
+  },
+  {
+    "id": "offer.rate_information",
+    "defaultMessage": "Rate per {coin_name} is {price}. You can buy any fraction"
+  },
+  {
+    "id": "offer.payment_verification_warning",
+    "defaultMessage": "Payment Verification"
+  },
+  {
+    "id": "offer.confirmation_time_information",
+    "defaultMessage": "The buyer of this trade has a time limit of {deadline} to pay for the trade before the trade is cancelled by the system. Trade will not auto-cancel when buyer has marked trade as paid, after which buyer has to wait for seller to release coin."
+  },
+  {
+    "id": "offer.owner_terms",
+    "defaultMessage": "Owner Terms"
+  }
+]

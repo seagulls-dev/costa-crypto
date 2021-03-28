@@ -1,0 +1,54 @@
+[
+  {
+    "id": "admin.search_users_placeholder",
+    "defaultMessage": "Search users..."
+  },
+  {
+    "id": "admin.users_action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "common.user_list",
+    "defaultMessage": "User List"
+  },
+  {
+    "id": "admin.filter_by_status",
+    "defaultMessage": "Filter By Status"
+  },
+  {
+    "id": "common.all",
+    "defaultMessage": "All"
+  },
+  {
+    "id": "common.active",
+    "defaultMessage": "Active"
+  },
+  {
+    "id": "common.inactive",
+    "defaultMessage": "Inactive"
+  },
+  {
+    "id": "admin.filter_by_role",
+    "defaultMessage": "Filter By Role"
+  },
+  {
+    "id": "admin.selected_count_users",
+    "defaultMessage": "Selected {count} users"
+  },
+  {
+    "id": "admin.activate_all",
+    "defaultMessage": "Activate All"
+  },
+  {
+    "id": "admin.deactivate_all",
+    "defaultMessage": "Deactivate All"
+  },
+  {
+    "id": "admin.specify_expiry_date",
+    "defaultMessage": "Specify Expiry Date"
+  },
+  {
+    "id": "admin.delete_all",
+    "defaultMessage": "Delete All"
+  }
+]

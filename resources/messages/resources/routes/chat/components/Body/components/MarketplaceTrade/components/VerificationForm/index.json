@@ -1,0 +1,26 @@
+[
+  {
+    "id": "marketplace.input_two_factor_code_placeholder",
+    "defaultMessage": "Enter your Two Factor code."
+  },
+  {
+    "id": "marketplace.input_password_placeholder",
+    "defaultMessage": "Enter your Password."
+  },
+  {
+    "id": "marketplace.token",
+    "defaultMessage": "Token"
+  },
+  {
+    "id": "marketplace.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "marketplace.approve_trade",
+    "defaultMessage": "Approve Trade"
+  },
+  {
+    "id": "marketplace.cancel",
+    "defaultMessage": "Cancel"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "admin.notification.updated_sms_message_successfully",
+    "defaultMessage": "Sms message updated successfully."
+  },
+  {
+    "id": "admin.notification.content",
+    "defaultMessage": "Content"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "meta.title.profile_trades",
+    "defaultMessage": "Trades - Profile | {name}"
+  },
+  {
+    "id": "common.coin",
+    "defaultMessage": "Coin"
+  },
+  {
+    "id": "common.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "common.seller",
+    "defaultMessage": "Seller"
+  },
+  {
+    "id": "common.buyer",
+    "defaultMessage": "Buyer"
+  },
+  {
+    "id": "common.status",
+    "defaultMessage": "Status"
+  },
+  {
+    "id": "common.rate",
+    "defaultMessage": "Rate"
+  },
+  {
+    "id": "common.payment_method",
+    "defaultMessage": "Payment Method"
+  },
+  {
+    "id": "common.payment_method_description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "profile.trades.title",
+    "defaultMessage": "{name} Trades"
+  }
+]

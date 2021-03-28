@@ -1,0 +1,74 @@
+[
+  {
+    "id": "admin.wallets.action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "admin.wallets.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.wallets.identifier",
+    "defaultMessage": "Identifier"
+  },
+  {
+    "id": "admin.wallets.symbol",
+    "defaultMessage": "Symbol"
+  },
+  {
+    "id": "admin.wallets.total_accounts",
+    "defaultMessage": "Total Accounts"
+  },
+  {
+    "id": "admin.wallets.total_balance",
+    "defaultMessage": "Total Balance"
+  },
+  {
+    "id": "admin.wallets.min_confirmations",
+    "defaultMessage": "Min Confirmations"
+  },
+  {
+    "id": "admin.wallets.source_id",
+    "defaultMessage": "Source ID"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "admin.wallets.balance",
+    "defaultMessage": "Balance"
+  },
+  {
+    "id": "admin.wallets.balance_on_trade",
+    "defaultMessage": "Balance On Trade"
+  },
+  {
+    "id": "common.wallets",
+    "defaultMessage": "Wallets"
+  },
+  {
+    "id": "admin.wallets.earnings",
+    "defaultMessage": "Earnings"
+  },
+  {
+    "id": "admin.wallets",
+    "defaultMessage": "Wallets"
+  },
+  {
+    "id": "admin.wallets.important",
+    "defaultMessage": "Important"
+  },
+  {
+    "id": "admin.wallets.wallet_removal_notice",
+    "defaultMessage": "A wallet can only be removed when it has no account with any user."
+  },
+  {
+    "id": "admin.wallets.wallet_statistics_notice",
+    "defaultMessage": "Wallet statistics are generated and cached for {minutes}. You may need to refresh the page periodically in order to get updated data."
+  },
+  {
+    "id": "admin.wallets.wallet_balance_notice",
+    "defaultMessage": "Wallet balance here is the total evaluation of user balance, which does not reflect the actual balance on the wallet. Extra fees are charged on every users transaction based on the number of generated address. The excess will be used for consolidation of unspent inputs in the future."
+  }
+]

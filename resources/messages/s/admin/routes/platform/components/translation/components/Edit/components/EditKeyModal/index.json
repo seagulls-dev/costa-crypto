@@ -1,0 +1,18 @@
+[
+  {
+    "id": "admin.translation.translation_key_saved",
+    "defaultMessage": "Translation key saved."
+  },
+  {
+    "id": "admin.translation.edit_key",
+    "defaultMessage": "Edit Key"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.translation.key",
+    "defaultMessage": "Key"
+  }
+]

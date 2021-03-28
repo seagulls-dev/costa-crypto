@@ -1,0 +1,26 @@
+[
+  {
+    "id": "profile.upload_successful",
+    "defaultMessage": "Your upload was successful."
+  },
+  {
+    "id": "profile.invalid_picture_type",
+    "defaultMessage": "You can only upload JPG/PNG file!"
+  },
+  {
+    "id": "common.upload",
+    "defaultMessage": "Upload"
+  },
+  {
+    "id": "profile.upload_picture",
+    "defaultMessage": "Upload Picture"
+  },
+  {
+    "id": "profile.crop_image",
+    "defaultMessage": "Crop Image"
+  },
+  {
+    "id": "common.crop",
+    "defaultMessage": "Crop"
+  }
+]

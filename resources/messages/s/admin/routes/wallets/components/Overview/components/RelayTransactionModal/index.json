@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin.wallets.transaction_relayed_successful",
+    "defaultMessage": "Transaction was relayed successfully."
+  },
+  {
+    "id": "admin.wallets.relay_transaction",
+    "defaultMessage": "Relay Transaction"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.wallets.relay_transaction_info",
+    "defaultMessage": "Enter the transaction hash of an incoming transaction that want to relay."
+  },
+  {
+    "id": "admin.wallets.hash",
+    "defaultMessage": "Hash"
+  }
+]

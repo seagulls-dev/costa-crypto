@@ -1,0 +1,34 @@
+[
+  {
+    "id": "admin.marketplace.update_payment_method_successful",
+    "defaultMessage": "Payment method was updated successfully."
+  },
+  {
+    "id": "admin.marketplace.edit_payment_method",
+    "defaultMessage": "Edit Payment Method"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.marketplace.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.marketplace.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "admin.marketplace.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "admin.marketplace.marketplace_fees",
+    "defaultMessage": "Marketplace Fees"
+  },
+  {
+    "id": "admin.marketplace.fees_info",
+    "defaultMessage": "Marketplace fees are in percentages."
+  }
+]

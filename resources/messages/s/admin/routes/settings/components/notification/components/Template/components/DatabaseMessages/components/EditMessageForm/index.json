@@ -1,0 +1,18 @@
+[
+  {
+    "id": "admin.notification.updated_database_message_successfully",
+    "defaultMessage": "Database message updated successfully."
+  },
+  {
+    "id": "admin.notification.subject",
+    "defaultMessage": "Subject"
+  },
+  {
+    "id": "admin.notification.message",
+    "defaultMessage": "Message"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

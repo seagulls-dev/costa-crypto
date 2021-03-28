@@ -1,0 +1,14 @@
+[
+  {
+    "id": "chats.input_message_placeholder",
+    "defaultMessage": "Type a message..."
+  },
+  {
+    "id": "chats.view_title",
+    "defaultMessage": "{user} and {total} other(s)"
+  },
+  {
+    "id": "chats.default_title",
+    "defaultMessage": "You and {total} other(s)"
+  }
+]

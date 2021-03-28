@@ -1,0 +1,38 @@
+[
+  {
+    "id": "admin.brand.upload_successful",
+    "defaultMessage": "Your upload was successful."
+  },
+  {
+    "id": "admin.brand.invalid_file_type",
+    "defaultMessage": "Invalid file type selected."
+  },
+  {
+    "id": "admin.brand.logo",
+    "defaultMessage": "Logo"
+  },
+  {
+    "id": "common.logo",
+    "defaultMessage": "Logo"
+  },
+  {
+    "id": "admin.upload_logo",
+    "defaultMessage": "Upload Logo"
+  },
+  {
+    "id": "common.example_with_dark_background",
+    "defaultMessage": "Example (with dark background)"
+  },
+  {
+    "id": "common.current",
+    "defaultMessage": "Current"
+  },
+  {
+    "id": "common.requirement",
+    "defaultMessage": "Requirement"
+  },
+  {
+    "id": "admin.brand.logo_requirement",
+    "defaultMessage": "Max Width: {maxWidth}, Max Height: {maxHeight}, File Type: {type}"
+  }
+]

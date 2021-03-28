@@ -1,0 +1,26 @@
+[
+  {
+    "id": "profile.details_action_successful",
+    "defaultMessage": "Your profile was updated successfully!"
+  },
+  {
+    "id": "profile.details",
+    "defaultMessage": "Details"
+  },
+  {
+    "id": "profile.first_name",
+    "defaultMessage": "First Name"
+  },
+  {
+    "id": "profile.last_name",
+    "defaultMessage": "Last Name"
+  },
+  {
+    "id": "profile.bio",
+    "defaultMessage": "Bio"
+  },
+  {
+    "id": "common.update",
+    "defaultMessage": "Update"
+  }
+]

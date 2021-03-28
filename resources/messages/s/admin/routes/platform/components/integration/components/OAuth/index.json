@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin.integration.oauth_action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "admin.integration.oauth_client_name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.integration.oauth_client_id",
+    "defaultMessage": "ID"
+  },
+  {
+    "id": "admin.integration.oauth_client_secret",
+    "defaultMessage": "Client Secret"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "admin.integration.oauth_clients",
+    "defaultMessage": "OAuth Clients"
+  },
+  {
+    "id": "admin.integration.oauth_info",
+    "defaultMessage": "The OAuth2 password grant allows your other first-party clients, such as a mobile application, to obtain an access token using an e-mail address / username and password. You should refer to the documentation for the available API endpoints and their responses."
+  }
+]

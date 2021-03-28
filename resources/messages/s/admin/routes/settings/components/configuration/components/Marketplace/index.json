@@ -1,0 +1,34 @@
+[
+  {
+    "id": "admin.configuration.updated_marketplace_successfully",
+    "defaultMessage": "Marketplace updated successfully."
+  },
+  {
+    "id": "admin.configuration.marketplace",
+    "defaultMessage": "Marketplace"
+  },
+  {
+    "id": "admin.configuration.offer_amount_info",
+    "defaultMessage": "All amounts are in the base currency {currency}. Conversions are automatically carried out for other currencies using {service}"
+  },
+  {
+    "id": "admin.configuration.min_offer_amount",
+    "defaultMessage": "Min Offer Amount"
+  },
+  {
+    "id": "admin.configuration.max_offer_amount",
+    "defaultMessage": "Max Offer Amount"
+  },
+  {
+    "id": "admin.configuration.offer_cache_period_info",
+    "defaultMessage": "Offers from the database are stored in cache per user in order to improve search experience. You may specify the cache period below in minutes."
+  },
+  {
+    "id": "admin.configuration.offer_cache_period",
+    "defaultMessage": "Offer Cache Period"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin.brand.upload_successful",
+    "defaultMessage": "Your upload was successful."
+  },
+  {
+    "id": "admin.brand.invalid_file_type",
+    "defaultMessage": "Invalid file type selected."
+  },
+  {
+    "id": "admin.brand.favicon",
+    "defaultMessage": "Favicon"
+  },
+  {
+    "id": "common.favicon",
+    "defaultMessage": "Favicon"
+  },
+  {
+    "id": "admin.upload_favicon",
+    "defaultMessage": "Upload Favicon"
+  },
+  {
+    "id": "common.requirement",
+    "defaultMessage": "Requirement"
+  },
+  {
+    "id": "admin.brand.favicon_requirement",
+    "defaultMessage": "File Type: {type}"
+  }
+]

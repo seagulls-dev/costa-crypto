@@ -1,0 +1,14 @@
+[
+  {
+    "id": "admin.customize.updated_footer_successfully",
+    "defaultMessage": "Footer updated successfully."
+  },
+  {
+    "id": "admin.customize.body",
+    "defaultMessage": "Body"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

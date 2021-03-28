@@ -1,0 +1,46 @@
+[
+  {
+    "id": "reset_password.successful",
+    "defaultMessage": "Password changed Successfully."
+  },
+  {
+    "id": "reset_password.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "reset_password.verify_password",
+    "defaultMessage": "Verify Password"
+  },
+  {
+    "id": "common.reset_password",
+    "defaultMessage": "Reset Password"
+  },
+  {
+    "id": "reset_password.select_method_info",
+    "defaultMessage": "Select your preferred {verification} method to reset your password. We will send you a code if this method is associated with any account and has been verified."
+  },
+  {
+    "id": "common.verification",
+    "defaultMessage": "Verification"
+  },
+  {
+    "id": "reset_password.verify_token_info",
+    "defaultMessage": "A code has been sent to your selected method, you should receive it if it is associated with an account and has been verified. Enter the code received below to continue. {resend}"
+  },
+  {
+    "id": "common.resend_code",
+    "defaultMessage": "Resend Code?"
+  },
+  {
+    "id": "common.email_address",
+    "defaultMessage": "Email Address"
+  },
+  {
+    "id": "common.phone_number",
+    "defaultMessage": "Phone Number"
+  },
+  {
+    "id": "common.change_password",
+    "defaultMessage": "Change Password"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "admin.configuration.updated_environment_successfully",
+    "defaultMessage": "Environment updated successfully."
+  },
+  {
+    "id": "admin.configuration.environment",
+    "defaultMessage": "Environment"
+  },
+  {
+    "id": "admin.configuration.environment_info",
+    "defaultMessage": "This form may be used to update your environment variables {env}. We strongly recommend that you make a full backup of this file before you proceed."
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

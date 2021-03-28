@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin.marketplace.create_marketplace_tag_successful",
+    "defaultMessage": "A new marketplace tag was created successfully."
+  },
+  {
+    "id": "admin.marketplace.create_marketplace_tags",
+    "defaultMessage": "Create Marketplace Tags"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.marketplace.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "admin.marketplace.description",
+    "defaultMessage": "Description"
+  }
+]

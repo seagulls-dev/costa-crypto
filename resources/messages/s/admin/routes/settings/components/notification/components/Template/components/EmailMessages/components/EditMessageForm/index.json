@@ -1,0 +1,18 @@
+[
+  {
+    "id": "admin.notification.updated_email_message_successfully",
+    "defaultMessage": "Email message updated successfully."
+  },
+  {
+    "id": "admin.notification.subject",
+    "defaultMessage": "Subject"
+  },
+  {
+    "id": "admin.notification.body",
+    "defaultMessage": "Body"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

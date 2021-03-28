@@ -1,0 +1,50 @@
+[
+  {
+    "id": "profile.contacts.search_users_placeholder",
+    "defaultMessage": "Search users..."
+  },
+  {
+    "id": "profile.contacts.action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "profile.contacts.choose_date_placeholder",
+    "defaultMessage": "Choose date..."
+  },
+  {
+    "id": "profile.contacts.invalid_input_message",
+    "defaultMessage": "You input was invalid, please try again!"
+  },
+  {
+    "id": "meta.title.profile_contacts",
+    "defaultMessage": "Contacts - Profile | {name}"
+  },
+  {
+    "id": "profile.contacts",
+    "defaultMessage": "Contacts"
+  },
+  {
+    "id": "profile.my_contacts",
+    "defaultMessage": "My Contacts"
+  },
+  {
+    "id": "admin.filter_by_status",
+    "defaultMessage": "Filter By Status"
+  },
+  {
+    "id": "common.all",
+    "defaultMessage": "All"
+  },
+  {
+    "id": "profile.contacts.trusted",
+    "defaultMessage": "Trusted"
+  },
+  {
+    "id": "profile.contacts.blocked",
+    "defaultMessage": "Blocked"
+  },
+  {
+    "id": "profile.contacts.selected_count_contact",
+    "defaultMessage": "Selected {count} contacts"
+  }
+]

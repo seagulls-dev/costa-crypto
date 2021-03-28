@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin.configuration.updated_wallet_successfully",
+    "defaultMessage": "Wallet updated successfully."
+  },
+  {
+    "id": "admin.configuration.wallet",
+    "defaultMessage": "Wallet"
+  },
+  {
+    "id": "admin.configuration.withdrawal_fees",
+    "defaultMessage": "Withdrawal Fees"
+  },
+  {
+    "id": "admin.configuration.percent",
+    "defaultMessage": "Percent"
+  },
+  {
+    "id": "admin.configuration.fixed",
+    "defaultMessage": "Fixed"
+  },
+  {
+    "id": "admin.configuration.no_wallet_available",
+    "defaultMessage": "No Wallet Available!"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  }
+]

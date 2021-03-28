@@ -1,0 +1,18 @@
+[
+  {
+    "id": "wallet.action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "wallet.address",
+    "defaultMessage": "Address"
+  },
+  {
+    "id": "wallet.address_total_received",
+    "defaultMessage": "Total Received"
+  },
+  {
+    "id": "wallet.action",
+    "defaultMessage": "Action"
+  }
+]

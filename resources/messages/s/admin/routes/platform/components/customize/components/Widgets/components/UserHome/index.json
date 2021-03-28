@@ -1,0 +1,18 @@
+[
+  {
+    "id": "admin.widget.action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "admin.available",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "admin.enabled",
+    "defaultMessage": "Enabled"
+  },
+  {
+    "id": "admin.save",
+    "defaultMessage": "Save"
+  }
+]

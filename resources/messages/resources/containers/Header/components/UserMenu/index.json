@@ -1,0 +1,18 @@
+[
+  {
+    "id": "auth.logout_successful",
+    "defaultMessage": "Logout Successful."
+  },
+  {
+    "id": "common.profile",
+    "defaultMessage": "Profile"
+  },
+  {
+    "id": "common.settings",
+    "defaultMessage": "Settings"
+  },
+  {
+    "id": "common.logout",
+    "defaultMessage": "Logout"
+  }
+]

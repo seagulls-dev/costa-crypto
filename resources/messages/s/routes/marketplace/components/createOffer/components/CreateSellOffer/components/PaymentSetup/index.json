@@ -1,0 +1,46 @@
+[
+  {
+    "id": "create_offer.sell_select_payment_method_placeholder",
+    "defaultMessage": "Select payment method..."
+  },
+  {
+    "id": "create_offer.sell_select_currency_placeholder",
+    "defaultMessage": "Select currency..."
+  },
+  {
+    "id": "create_offer.sell_select_wallet_account_placeholder",
+    "defaultMessage": "Select wallet account..."
+  },
+  {
+    "id": "create_offer.sell_select_wallet_account_label",
+    "defaultMessage": "Sell from Wallet Account"
+  },
+  {
+    "id": "create_offer.sell_select_wallet_account_extra",
+    "defaultMessage": "Select your wallet account to sell from!"
+  },
+  {
+    "id": "create_offer.sell_select_payment_method_label",
+    "defaultMessage": "Receive payment with"
+  },
+  {
+    "id": "create_offer.sell_select_currency_label",
+    "defaultMessage": "Specify currency to trade with"
+  },
+  {
+    "id": "create_offer.sell_select_currency_extra",
+    "defaultMessage": "Your offer will be posted for the selected currency."
+  },
+  {
+    "id": "create_offer.sell_about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "create_offer.sell_payment_method_information",
+    "defaultMessage": "We provide support for several payment methods. You can always suggest a new one for our team to consider."
+  },
+  {
+    "id": "create_offer.sell_country_information",
+    "defaultMessage": "This offer will be listed under your country: {country}. This is used to improve the search algorithm, your offers will still be visible for all."
+  }
+]
